@@ -1,4 +1,12 @@
-# 🌱 PlantHealth AI
+# 🌱 PlantHealt-AI
+
+> AI-Based Plant Disease Detection and Health Analysis
+
+### 🚀 Live Demo
+https://planthealth-ai-ritik.streamlit.app
+
+### 💻 GitHub
+https://github.com/ritikprasad123/PlantHealth-AI
 
 AI-powered plant disease screening web application built with deep learning.
 
