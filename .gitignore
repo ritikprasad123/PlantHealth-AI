@@ -56,3 +56,4 @@ Thumbs.db
 *.log
 archive/
 archive.zip
+!models/final_plant_disease_model.keras
